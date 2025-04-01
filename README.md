@@ -36,7 +36,7 @@ Follow these steps to set up the project:
 ### End-to-End Tests
 These tests ensure data is properly loaded and analyzed:
 ```sql
-SELECT COUNT(*) FROM sales_data;
+SELECT * FROM ap.mytable;
 ```
 
 ### Coding Style Tests
